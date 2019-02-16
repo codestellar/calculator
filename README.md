@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://codestellar.visualstudio.com/MyCalculatorApp/_apis/build/status/codestellar.calculator?branchName=master)](https://codestellar.visualstudio.com/MyCalculatorApp/_build/latest?definitionId=7&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
